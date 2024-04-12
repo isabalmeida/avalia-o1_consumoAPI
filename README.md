@@ -1,5 +1,3 @@
-Este README documenta o que os códigos fazem, os pré-requisitos para executá-los, como instalá-los e usá-los, além de fornecer detalhes sobre as funções definidas nos códigos. 
-
 # Weather API
 Este é um programa simples em Python que utiliza a API do OpenWeatherMap para obter informações meteorológicas de uma cidade específica.
 
